@@ -14,10 +14,15 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@google/model-viewer": "^1.9.2",
+    "@react-three/fiber": "^7.0.19",
     "gatsby": "^4.2.0",
     "gatsby-plugin-sass": "^5.2.0",
+    "gatsby-plugin-typescript": "^4.2.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "sass": "^1.43.4"
+    "sass": "^1.43.4",
+    "three": "^0.134.0",
+    "tsc": "^2.0.3"
   }
 }
